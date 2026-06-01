@@ -18,10 +18,8 @@
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ByrisettiKeerthana&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByrisettiKeerthana&layout=compact&theme=radical" />
+
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ByrisettiKeerthana&theme=tokyonight)

@@ -20,10 +20,8 @@
 
 ## 📊 GitHub Stats
 
-![Keerthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByrisettiKeerthana&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByrisettiKeerthana&layout=compact&theme=tokyonight)
-
+<img src="https://github-readme-stats.vercel.app/api?username=ByrisettiKeerthana&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByrisettiKeerthana&layout=compact&theme=radical" />
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ByrisettiKeerthana&theme=tokyonight)
